@@ -112,4 +112,5 @@ cd HR-Analytics-Dashboard
 * Guides management to improve employee engagement & reduce turnover costs.
 
 📸 [Dashboard Preview](https://bit.ly/HR-Analytics-Dashboards)
+![QR](https://github.com/Taukif/HR-Analytics-Dashboard/blob/main/HR-Analytics-Dashboards%20QR.jpeg)
 
