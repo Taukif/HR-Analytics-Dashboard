@@ -111,5 +111,5 @@ cd HR-Analytics-Dashboard
 * Helps target salary and retention strategies for at-risk employees.
 * Guides management to improve employee engagement & reduce turnover costs.
 
-📸 [Dashboard Preview](https://floco.in/HR-Analytics-Dashboard)
+📸 [Dashboard Preview](https://bit.ly/HR-Analytics-Dashboards)
 
