@@ -93,23 +93,23 @@ HR-Analytics-Dashboard/
 │── README.md                 # Project Documentation (this file)
 ```
 ## 🚀How to Use
-markdown
+
 1.Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/HR-Analytics-Dashboard.git
 cd hr-analytics-dashboard
 ```
-Open the .pbix file in Power BI Desktop.
-Connect with the HR dataset (included in the dataset/ folder).
-Explore the dashboard and interact with filters for insights.
+2.Open the .pbix file in Power BI Desktop.
+3.Connect with the HR dataset (included in the dataset/ folder).
+4.Explore the dashboard and interact with filters for insights.
 
 ## 📈Business Impact
-markdown
-*✅ Helps HR managers identify high attrition job roles.
-*✅ Provides insight into which education background has higher turnover.
-*✅ Helps target salary and retention strategies for at-risk employees.
-*✅ Guides management to improve employee engagement & reduce turnover costs.
+
+* Helps HR managers identify high attrition job roles.
+* Provides insight into which education background has higher turnover.
+* Helps target salary and retention strategies for at-risk employees.
+* Guides management to improve employee engagement & reduce turnover costs.
 
 📸 [Dashboard Preview](https://floco.in/HR-Analytics-Dashboard)
 
