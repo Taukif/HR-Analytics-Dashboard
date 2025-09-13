@@ -94,7 +94,7 @@ HR-Analytics-Dashboard/
 ```
 ## 🚀How to Use
 markdown
-Clone the repository:
+1.Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/HR-Analytics-Dashboard.git
@@ -105,11 +105,11 @@ Connect with the HR dataset (included in the dataset/ folder).
 Explore the dashboard and interact with filters for insights.
 
 ## 📈Business Impact
-
-✅ Helps HR managers identify high attrition job roles.
-✅ Provides insight into which education background has higher turnover.
-✅ Helps target salary and retention strategies for at-risk employees.
-✅ Guides management to improve employee engagement & reduce turnover costs.
+markdown
+*✅ Helps HR managers identify high attrition job roles.
+*✅ Provides insight into which education background has higher turnover.
+*✅ Helps target salary and retention strategies for at-risk employees.
+*✅ Guides management to improve employee engagement & reduce turnover costs.
 
 📸 [Dashboard Preview](https://floco.in/HR-Analytics-Dashboard)
-![Image](C:\Users\tauki\OneDrive\Pictures\Screenshots 1\Screenshot 2025-09-13 103212.png)
+
