@@ -97,8 +97,8 @@ HR-Analytics-Dashboard/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/HR-Analytics-Dashboard.git
-cd hr-analytics-dashboard
+git clone https://github.com/Taukif/HR-Analytics-Dashboard.git
+cd HR-Analytics-Dashboard
 ```
 2. Open the .pbix file in Power BI Desktop.
 3.  Connect with the HR dataset (included in the dataset/ folder).
